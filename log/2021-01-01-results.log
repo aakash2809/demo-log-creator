@@ -1,0 +1,8 @@
+2021-01-01 13:33:22 info: Hello world
+2021-01-01 13:33:22 verbose: Verbose info
+2021-01-01 13:33:22 warn: Warning message
+2021-01-01 13:33:22 error: Error info
+2021-01-01 13:59:45 info: Hello world
+2021-01-01 13:59:45 verbose: Verbose info
+2021-01-01 13:59:45 warn: Warning message
+2021-01-01 13:59:45 error: Error info

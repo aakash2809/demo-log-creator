@@ -1,0 +1,11 @@
+2021-01-01 09:45:23 info: Hello world
+2021-01-01 09:45:23 debug: Debugging info
+2021-01-01 10:37:39 info: Hello world
+2021-01-01 10:37:39 debug: Debugging info
+2021-01-01 10:37:39 warn: Warning message
+2021-01-01 10:41:20 info: Hello world
+2021-01-01 10:41:20 debug: Debugging info
+2021-01-01 10:41:20 warn: Warning message
+{"message":"Hello world","level":"info","timestamp":"2021-01-01 13:14:51"}
+{"message":"Debugging info","level":"debug","timestamp":"2021-01-01 13:14:51"}
+{"message":"Warning message","level":"warn","timestamp":"2021-01-01 13:14:51"}
